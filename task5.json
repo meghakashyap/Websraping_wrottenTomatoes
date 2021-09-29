@@ -1,0 +1,761 @@
+[
+    {
+        "Bio": "Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody's slight detour leads him to his long-lost friend Bo Peep. As Woody and Bo discuss the old days, they soon start to realize that they're worlds apart when it comes to what they want from life as a toy.",
+        "Movie_name": "Toy Story 4",
+        "Rating": "G",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Josh Cooley"
+        ],
+        "Producer": [
+            "Mark Nielsen,                                                                                                                 Jonas Rivera,                                                                                                                 Galyn Susman"
+        ],
+        "Runtime": 100,
+        "movieName": "toy_story_4"
+    },
+    {
+        "Bio": "Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil Kingpin, a hulking madman who can open portals to other universes and pull different versions of Spider-Man into our world.",
+        "Movie_name": "Spider-Man: Into the Spider-Verse",
+        "Rating": "PG (Mild Language|Frenetic Action Violence|Thematic Elements)",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Action",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Bob Persichetti,                                                                                                                 Peter Ramsey,                                                                                                                 Rodney Rothman"
+        ],
+        "Producer": [
+            "Avi Arad,                                                                                                                 Amy Pascal,                                                                                                                 Phil Lord,                                                                                                                 Chris Miller,                                                                                                                 Christina Steinberg"
+        ],
+        "Runtime": 117,
+        "movieName": "spider_man_into_the_spider_verse"
+    },
+    {
+        "Bio": "Riley (Kaitlyn Dias) is a happy, hockey-loving 11-year-old Midwestern girl, but her world turns upside-down when she and her parents move to San Francisco. Riley's emotions -- led by Joy (Amy Poehler) -- try to guide her through this difficult, life-changing event. However, the stress of the move brings Sadness (Phyllis Smith) to the forefront. When Joy and Sadness are inadvertently swept into the far reaches of Riley's mind, the only emotions left in Headquarters are Anger, Fear and Disgust.",
+        "Movie_name": "Inside Out",
+        "Rating": "PG (Some Action|Mild Thematic Elements)",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Pete Docter"
+        ],
+        "Producer": [
+            "Jonas Rivera"
+        ],
+        "Runtime": 95,
+        "movieName": "inside_out_2015"
+    },
+    {
+        "Bio": "Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead. After meeting a charming trickster named H\u00e9ctor, the two new friends embark on an extraordinary journey to unlock the real story behind Miguel's family history.",
+        "Movie_name": "Coco",
+        "Rating": "PG (Thematic Elements)",
+        "Genre": [
+            "Adventure",
+            " Music",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Lee Unkrich"
+        ],
+        "Producer": [
+            "Darla K. Anderson"
+        ],
+        "Runtime": 109,
+        "movieName": "coco_2017"
+    },
+    {
+        "Bio": "The Grimm fairy tale gets a Technicolor treatment in Disney's first animated feature. Jealous of Snow White's beauty, the wicked queen orders the murder of her innocent stepdaughter, but later discovers that Snow White is still alive and hiding in a cottage with seven friendly little miners. Disguising herself as a hag, the queen brings a poisoned apple to Snow White, who falls into a death-like sleep that can be broken only by a kiss from the prince.",
+        "Movie_name": "Snow White and the Seven Dwarfs",
+        "Rating": "G",
+        "Genre": [
+            "Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "David Hand"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 80,
+        "movieName": "1048445-snow_white_and_the_seven_dwarfs"
+    },
+    {
+        "Bio": "Telecommunications guru Winston Deavor enlists Elastigirl to fight crime and make the public fall in love with superheroes once again. That leaves Mr. Incredible with one of his greatest challenges ever -- staying home and taking care of three rambunctious children. As Violet, Dash and Jack-Jack offer him a new set of headaches, a cybercriminal named Screenslaver launches his dastardly plan -- hypnotizing the world through computer screens.",
+        "Movie_name": "Incredibles 2",
+        "Rating": "PG (Some Brief Mild Language|Action Sequences)",
+        "Genre": [
+            "Adventure",
+            " Action",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "John Walker,                                                                                                                 Nicole Paradis Grindle"
+        ],
+        "Runtime": 118,
+        "movieName": "incredibles_2"
+    },
+    {
+        "Bio": "From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps (Ginnifer Goodwin) becomes the first rabbit to join the police force, she quickly learns how tough it is to enforce the law. Determined to prove herself, Judy jumps at the opportunity to solve a mysterious case. Unfortunately, that means working with Nick Wilde (Jason Bateman), a wily fox who makes her job even harder.",
+        "Movie_name": "Zootopia",
+        "Rating": "PG (Rude Humor|Action|Some Thematic Elements)",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Byron Howard,                                                                                                                 Rich Moore"
+        ],
+        "Producer": [
+            "Clark Spencer"
+        ],
+        "Runtime": 108,
+        "movieName": "zootopia"
+    },
+    {
+        "Bio": "Settled in with the Brown family, Paddington the bear is a popular member of the community who spreads joy and marmalade wherever he goes. One fine day, he spots a pop-up book in an antique shop -- the perfect present for his beloved aunt's 100th birthday. When a thief steals the prized book, Paddington embarks on an epic quest to unmask the culprit before Aunt Lucy's big celebration.",
+        "Movie_name": "Paddington 2",
+        "Rating": "PG (Some Action|Mild Rude Humor)",
+        "Genre": [
+            "Comedy",
+            " Kids & family"
+        ],
+        "Language": "English (United Kingdom)",
+        "Director": [
+            "Paul King"
+        ],
+        "Producer": [
+            "David Heyman"
+        ],
+        "Runtime": 103,
+        "movieName": "paddington_2"
+    },
+    {
+        "Bio": "Carl Fredricksen (Ed Asner), a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly Carl's worst nightmare comes true when he discovers a little boy named Russell is a stowaway aboard the balloon-powered house.",
+        "Movie_name": "Up",
+        "Rating": "PG (Some Peril|Action)",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Pete Docter,                                                                                                                 Bob Peterson"
+        ],
+        "Producer": [
+            "Jonas Rivera"
+        ],
+        "Runtime": 89,
+        "movieName": "up"
+    },
+    {
+        "Bio": "With their beloved Andy preparing to leave for college, Woody (Tom Hanks), Buzz Lightyear (Tim Allen), Jessie (Joan Cusack), and the rest of the toys find themselves headed for the attic but mistakenly wind up on the curb with the trash. Woody's quick thinking saves the gang, but all but Woody end up being donated to a day-care center. Unfortunately, the uncontrollable kids do not play nice, so Woody and the gang make plans for a great escape.",
+        "Movie_name": "Toy Story 3",
+        "Rating": "G",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Lee Unkrich"
+        ],
+        "Producer": [
+            "Darla K. Anderson"
+        ],
+        "Runtime": 102,
+        "movieName": "toy_story_3"
+    },
+    {
+        "Bio": "Woody (Tom Hanks) is stolen from his home by toy dealer Al McWhiggin (Wayne Knight), leaving Buzz Lightyear (Tim Allen) and the rest of the gang to try to rescue him. But when Woody discovers that he's actually a valuable collectible from a once-popular television show called \"Woody's Roundup\" and is reunited with his horse Bullseye, Jessie the yodeling cowgirl (Joan Cusack) and his faithful sidekick, Stinky Pete the Prospector (Kelsey Grammer), he doesn't want to leave.",
+        "Movie_name": "Toy Story 2",
+        "Rating": "G",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Ash Brannon,                                                                                                                 John Lasseter,                                                                                                                 Lee Unkrich"
+        ],
+        "Producer": [
+            "Karen Robert Jackson,                                                                                                                 Helene Plotkin"
+        ],
+        "Runtime": 92,
+        "movieName": "toy_story_2"
+    },
+    {
+        "Bio": "Dory (Ellen DeGeneres) is a wide-eyed, blue tang fish who suffers from memory loss every 10 seconds or so. The one thing she can remember is that she somehow became separated from her parents as a child. With help from her friends Nemo and Marlin, Dory embarks on an epic adventure to find them. Her journey brings her to the Marine Life Institute, a conservatory that houses diverse ocean species. Dory now knows that her family reunion will only happen if she can save mom and dad from captivity.",
+        "Movie_name": "Finding Dory",
+        "Rating": "PG (Mild Thematic Elements)",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Andrew Stanton"
+        ],
+        "Producer": [
+            "Lindsey Collins"
+        ],
+        "Runtime": 103,
+        "movieName": "finding_dory"
+    },
+    {
+        "Bio": "When the woodworker Geppetto (Christian Rub) sees a falling star, he wishes that the puppet he just finished, Pinocchio (Dickie Jones), could become a real boy. In the night, the Blue Fairy (Evelyn Venable) grants Geppetto's wish and asks Jiminy Cricket (Cliff Edwards) to serve as the wooden boy's conscience. But the naive and trusting Pinocchio falls into the clutches of the wicked Honest John (Walter Catlett), who leads him astray to the sinful Pleasure Island.",
+        "Movie_name": "Pinocchio",
+        "Rating": "G",
+        "Genre": [
+            "Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Ben Sharpsteen,                                                                                                                 Hamilton Luske"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 87,
+        "movieName": "pinocchio_1940"
+    },
+    {
+        "Bio": "Marlin (Albert Brooks), a clown fish, is overly cautious with his son, Nemo (Alexander Gould), who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by a diver, and horrified Marlin must set out to find him. A blue reef fish named Dory (Ellen DeGeneres) -- who has a really short memory -- joins Marlin and complicates the encounters with sharks, jellyfish, and a host of ocean dangers. Meanwhile, Nemo plots his escape from a dentist's fish tank.",
+        "Movie_name": "Finding Nemo",
+        "Rating": "G",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Andrew Stanton"
+        ],
+        "Producer": [
+            "Graham Walters"
+        ],
+        "Runtime": 100,
+        "movieName": "finding_nemo"
+    },
+    {
+        "Bio": "Emmet (Chris Pratt), an ordinary LEGO figurine who always follows the rules, is mistakenly identified as the Special -- an extraordinary being and the key to saving the world. He finds himself drafted into a fellowship of strangers who are on a mission to stop an evil tyrant's (Will Ferrell) plans to conquer the world. Unfortunately for Emmet, he is hopelessly -- and hilariously -- unprepared for such a task, but he'll give it his all nonetheless.",
+        "Movie_name": "The LEGO Movie",
+        "Rating": "PG (Rude Humor|Mild Action)",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Phil Lord,                                                                                                                 Chris Miller"
+        ],
+        "Producer": [
+            "Dan Lin,                                                                                                                 Roy Lee"
+        ],
+        "Runtime": 95,
+        "movieName": "the_lego_movie"
+    },
+    {
+        "Bio": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+        "Movie_name": "Moana",
+        "Rating": "PG (Peril|Brief Thematic Elements|Some Scary Images)",
+        "Genre": [
+            "Adventure",
+            " Animation",
+            " Musical",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "John Musker,                                                                                                                 Ron Clements"
+        ],
+        "Producer": [
+            "Osnat Shurer"
+        ],
+        "Runtime": 113,
+        "movieName": "moana_2016"
+    },
+    {
+        "Bio": "Woody (Tom Hanks), a good-hearted cowboy doll who belongs to a young boy named Andy (John Morris), sees his position as Andy's favorite toy jeopardized when his parents buy him a Buzz Lightyear (Tim Allen) action figure. Even worse, the arrogant Buzz thinks he's a real spaceman on a mission to return to his home planet. When Andy's family moves to a new house, Woody and Buzz must escape the clutches of maladjusted neighbor Sid Phillips (Erik von Detten) and reunite with their boy.",
+        "Movie_name": "Toy Story",
+        "Rating": "G",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "John Lasseter"
+        ],
+        "Producer": [
+            "Ralph Guggenheim,                                                                                                                 Bonnie Arnold"
+        ],
+        "Runtime": 80,
+        "movieName": "toy_story"
+    },
+    {
+        "Bio": "When, by executive decree, all the canine pets of Megasaki City are exiled to a vast garbage-dump called Trash Island, 12-year-old Atari sets off alone in a miniature Junior-Turbo Prop and flies across the river in search of his bodyguard-dog, Spots. There, with the assistance of a pack of newly-found mongrel friends, he begins an epic journey that will decide the fate and future of the entire Prefecture.",
+        "Movie_name": "Isle of Dogs",
+        "Rating": "PG-13 (Thematic Elements|Some Violent Images)",
+        "Genre": [
+            "Comedy",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Wes Anderson"
+        ],
+        "Producer": [
+            "Wes Anderson,                                                                                                                 Scott Rudin,                                                                                                                 Steven Rales,                                                                                                                 Jeremy Dawson"
+        ],
+        "Runtime": 101,
+        "movieName": "isle_of_dogs_2018"
+    },
+    {
+        "Bio": "Young Kubo's (Art Parkinson) peaceful existence comes crashing down when he accidentally summons a vengeful spirit from the past. Now on the run, Kubo joins forces with Monkey (Charlize Theron) and Beetle (Matthew McConaughey) to unlock a secret legacy. Armed with a magical instrument, Kubo must battle the Moon King (Ralph Fiennes) and other gods and monsters to save his family and solve the mystery of his fallen father, the greatest samurai warrior the world has ever known.",
+        "Movie_name": "Kubo and the Two Strings",
+        "Rating": "PG (Scary Images|Action and Peril|Thematic Elements)",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Action",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Travis Knight"
+        ],
+        "Producer": [
+            "Arianne Sutner,                                                                                                                 Travis Knight"
+        ],
+        "Runtime": 102,
+        "movieName": "kubo_and_the_two_strings_2016"
+    },
+    {
+        "Bio": "Hiccup (Jay Baruchel) is a Norse teenager from the island of Berk, where fighting dragons is a way of life. His progressive views and weird sense of humor make him a misfit, despite the fact that his father (Gerard Butler) is chief of the clan. Tossed into dragon-fighting school, he endeavors to prove himself as a true Viking, but when he befriends an injured dragon he names Toothless, he has the chance to plot a new course for his people's future.",
+        "Movie_name": "How to Train Your Dragon",
+        "Rating": "PG (Sequences of Intense Action|Brief Mild Language|Some Scary Images)",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Christopher Sanders,                                                                                                                 Dean DeBlois"
+        ],
+        "Producer": [
+            "Bonnie Arnold"
+        ],
+        "Runtime": 98,
+        "movieName": "how_to_train_your_dragon"
+    },
+    {
+        "Bio": "All is well at Mossy Bottom Farm, except for the fact that the animals will do anything to get out of work. So, Shaun the sheep and his scheming friends devise a plan to put their master to sleep. However, the ruse backfires when the poor farmer finds himself transported to the big city, having lost his memory. Now, it's up to Sean, Timmy the lamb, Shirley the ewe and the rest of the gang to travel to the metropolis and get him back, while not landing in even more trouble themselves.",
+        "Movie_name": "Shaun the Sheep Movie",
+        "Rating": "PG (Rude Humor)",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Mark Burton,                                                                                                                 Richard Starzak"
+        ],
+        "Producer": [
+            "Julie Lockhart,                                                                                                                 Paul Kewley"
+        ],
+        "Runtime": 85,
+        "movieName": "shaun_the_sheep_movie"
+    },
+    {
+        "Bio": "WALL-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet, one piece of garbage at a time. But during 700 years, WALL-E has developed a personality, and he's more than a little lonely. Then he spots EVE (Elissa Knight), a sleek and shapely probe sent back to Earth on a scanning mission. Smitten WALL-E embarks on his greatest adventure yet when he follows EVE across the galaxy.",
+        "Movie_name": "WALL-E",
+        "Rating": "G",
+        "Genre": [
+            "Adventure",
+            " Animation",
+            " Sci-fi",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Andrew Stanton"
+        ],
+        "Producer": [
+            "Jim Morris"
+        ],
+        "Runtime": 97,
+        "movieName": "wall_e"
+    },
+    {
+        "Bio": "A young circus elephant is born with comically large ears and given the cruel nickname Dumbo. One day at a show, he is taunted by a group of kids, inciting his mother into a rage that gets her locked up. After Dumbo's ears cause an accident that injures many of the other elephants, he is made to dress like a clown and perform dangerous stunts. Everything changes when Dumbo discovers that his enormous ears actually allow him to fly, and he astounds everyone at the circus with his new talent.",
+        "Movie_name": "Dumbo",
+        "Rating": "G",
+        "Genre": [
+            "Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Ben Sharpsteen"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 64,
+        "movieName": "dumbo"
+    },
+    {
+        "Bio": "Remy (Patton Oswalt), a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
+        "Movie_name": "Ratatouille",
+        "Rating": "G",
+        "Genre": [
+            "Comedy",
+            " Kids & family"
+        ],
+        "Language": "English",
+        "Director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "Brad Lewis"
+        ],
+        "Runtime": 111,
+        "movieName": "ratatouille"
+    },
+    {
+        "Bio": "A police officer (Nick Offerman) and some new friends help an orphan adjust to life at a foster home.",
+        "Movie_name": "My Life as a Zucchini",
+        "Rating": "PG-13 (Thematic Elements|Suggestive Material)",
+        "Genre": [
+            "Comedy",
+            " Drama"
+        ],
+        "Language": "French (France)",
+        "Director": [
+            "Claude Barras"
+        ],
+        "Producer": [
+            "Marc Bonny,                                                                                                                 Armelle Glorennec,                                                                                                                 Pauline Gygax,                                                                                                                 Max Karli"
+        ],
+        "Runtime": 66,
+        "movieName": "my_life_as_a_zucchini"
+    },
+    {
+        "Bio": "In this lauded Pixar animated film, married superheroes Mr. Incredible (Craig T. Nelson) and Elastigirl (Holly Hunter) are forced to assume mundane lives as Bob and Helen Parr after all super-powered activities have been banned by the government. While Mr. Incredible loves his wife and kids, he longs to return to a life of adventure, and he gets a chance when summoned to an island to battle an out-of-control robot. Soon, Mr. Incredible is in trouble, and it's up to his family to save him.",
+        "Movie_name": "The Incredibles",
+        "Rating": "PG (Action/Violence)",
+        "Genre": [
+            "Adventure",
+            " Comedy",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "John Lasseter,                                                                                                                 John Walker"
+        ],
+        "Runtime": 115,
+        "movieName": "incredibles"
+    },
+    {
+        "Bio": "A put-upon 27-year-old Japanese office worker travels to the countryside and reminisces about her childhood in Tokyo and what life could have been.",
+        "Movie_name": "Only Yesterday",
+        "Genre": [
+            "Drama"
+        ],
+        "Language": "Japanese",
+        "Director": [
+            "Isao Takahata"
+        ],
+        "Producer": [
+            "Yasuyoshi Tokuma"
+        ],
+        "Runtime": 118,
+        "movieName": "only_yesterday_1991"
+    },
+    {
+        "Bio": "In a Disney animation classic, Dalmatian Pongo is tired of his bachelor-dog life. He spies lovely Perdita and maneuvers his master, Roger, into meeting Perdita's owner, Anita. The owners fall in love and marry, keeping Pongo and Perdita together too. After Perdita gives birth to a litter of 15 puppies, Anita's old school friend Cruella De Vil wants to buy them all. Roger declines her offer, so Cruella hires the criminal Badun brothers to steal them -- so she can have a fur coat.",
+        "Movie_name": "One Hundred and One Dalmatians",
+        "Rating": "G",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Wolfgang Reitherman,                                                                                                                 Hamilton Luske,                                                                                                                 Clyde Geronimi"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 79,
+        "movieName": "101_dalmatians"
+    },
+    {
+        "Bio": "There are big changes brewing in Gotham, but if Batman (Will Arnett) wants to save the city from the Joker's (Zach Galifianakis) hostile takeover, he may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up. Maybe his superhero sidekick Robin (Michael Cera) and loyal butler Alfred (Ralph Fiennes) can show him a thing or two.",
+        "Movie_name": "The LEGO Batman Movie",
+        "Rating": "PG (Rude Humor and Some Action)",
+        "Genre": [
+            "Adventure",
+            " Action",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Chris McKay"
+        ],
+        "Producer": [
+            "Dan Lin,                                                                                                                 Phil Lord,                                                                                                                 Chris Miller,                                                                                                                 Roy Lee"
+        ],
+        "Runtime": 106,
+        "movieName": "the_lego_batman_movie"
+    },
+    {
+        "Bio": "This engaging stop-motion, claymation adventure tells the story of an American rooster who falls in love with a gorgeous hen on a British farm. The couple decides to run away from the farm, but they must first contend with the evil farmer who is intent on keeping them under her control. The chickens decide to attempt an escape so they don't get turned into chicken pot pies.",
+        "Movie_name": "Chicken Run",
+        "Rating": "G",
+        "Genre": [
+            "Comedy",
+            " Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Peter Lord,                                                                                                                 Nick Park"
+        ],
+        "Producer": [
+            "Peter Lord,                                                                                                                 Nick Park,                                                                                                                 David Sproxton"
+        ],
+        "Runtime": 85,
+        "movieName": "chicken_run"
+    },
+    {
+        "Bio": "An arrogant young prince (Robby Benson) and his castle's servants fall under the spell of a wicked enchantress, who turns him into the hideous Beast until he learns to love and be loved in return. The spirited, headstrong village girl Belle (Paige O'Hara) enters the Beast's castle after he imprisons her father Maurice (Rex Everhart). With the help of his enchanted servants, including the matronly Mrs. Potts (Angela Lansbury), Belle begins to draw the cold-hearted Beast out of his isolation.",
+        "Movie_name": "Beauty and the Beast",
+        "Rating": "G",
+        "Genre": [
+            "Kids & family",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Gary Trousdale,                                                                                                                 Kirk Wise"
+        ],
+        "Producer": [
+            "Don Hahn"
+        ],
+        "Runtime": 84,
+        "movieName": "beauty_and_the_beast_1991"
+    },
+    {
+        "Bio": "The film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the \"real world.\" When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over the role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.",
+        "Movie_name": "The Nightmare Before Christmas",
+        "Rating": "PG (Some Scary Images)",
+        "Genre": [
+            "Fantasy",
+            " Other",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Henry Selick"
+        ],
+        "Producer": [
+            "Tim Burton,                                                                                                                 Denise Di Novi,                                                                                                                 Kathleen Gavin"
+        ],
+        "Runtime": 75,
+        "movieName": "nightmare_before_christmas"
+    },
+    {
+        "Bio": "An inspirational speaker (David Thewlis) becomes reinvigorated after meeting a lively woman (Jennifer Jason Leigh) who shakes up his mundane existence.",
+        "Movie_name": "Anomalisa",
+        "Rating": "R (Language|Graphic Nudity|Strong Sexual Content)",
+        "Genre": [
+            "Comedy",
+            " Drama"
+        ],
+        "Language": "English",
+        "Director": [
+            "Charlie Kaufman,                                                                                                                 Duke Johnson"
+        ],
+        "Producer": [
+            "Rosa Tran,                                                                                                                 Duke Johnson,                                                                                                                 Charlie Kaufman,                                                                                                                 Dino Stamatopoulos"
+        ],
+        "Runtime": 90,
+        "movieName": "anomalisa"
+    },
+    {
+        "Bio": "Monsters Incorporated is the largest scare factory in the monster world, and James P. Sullivan (John Goodman) is one of its top scarers. Sullivan is a huge, intimidating monster with blue fur, large purple spots and horns. His scare assistant, best friend and roommate is Mike Wazowski (Billy Crystal), a green, opinionated, feisty little one-eyed monster. Visiting from the human world is Boo (Mary Gibbs), a tiny girl who goes where no human has ever gone before.",
+        "Movie_name": "Monsters, Inc.",
+        "Rating": "G",
+        "Genre": [
+            "Adventure",
+            " Fantasy",
+            " Animation",
+            " Comedy"
+        ],
+        "Language": "English",
+        "Director": [
+            "Pete Docter"
+        ],
+        "Producer": [
+            "Darla K. Anderson"
+        ],
+        "Runtime": 92,
+        "movieName": "monsters_inc"
+    },
+    {
+        "Bio": "Teenage elf brothers Ian and Barley embark on a magical quest to spend one more day with their late father. Like any good adventure, their journey is filled with cryptic maps, impossible obstacles and unimaginable discoveries. But when dear Mom finds out her sons are missing, she teams up with the legendary manticore to bring her beloved boys back home.",
+        "Movie_name": "Onward",
+        "Rating": "PG (Some Mild Thematic Elements|Action/Peril)",
+        "Genre": [
+            "Animation",
+            " Kids & family",
+            " Fantasy",
+            " Adventure"
+        ],
+        "Language": "English",
+        "Director": [
+            "Dan Scanlon"
+        ],
+        "Producer": [
+            "Kori Rae"
+        ],
+        "Runtime": 103,
+        "movieName": "onward"
+    },
+    {
+        "Bio": "A teenager (J. Robert Spencer) is charged with the care of his younger sister (Rhoda Chrosite) after an Allied firebombing during World War II destroys their home and kills their mother.",
+        "Movie_name": "Grave of the Fireflies",
+        "Genre": [
+            "Drama",
+            " War"
+        ],
+        "Language": "Japanese",
+        "Director": [
+            "Isao Takahata"
+        ],
+        "Producer": [
+            "Toru Hara"
+        ],
+        "Runtime": 88,
+        "movieName": "grave_of_the_fireflies"
+    },
+    {
+        "Bio": "10-year-old Chihiro (Daveigh Chase) moves with her parents to a new home in the Japanese countryside. After taking a wrong turn down a wooded path, Chihiro and her parents discover an amusement park with a stall containing an assortment of food. To her surprise, Chihiro's parents begin eating and then transform into pigs. In this supernatural realm, Chihiro encounters a host of characters and endures labor in a bathhouse for spirits, awaiting a reunion with her parents.",
+        "Movie_name": "Spirited Away",
+        "Rating": "PG (Some Scary Moments)",
+        "Genre": [
+            "Adventure",
+            " Animation"
+        ],
+        "Language": "Japanese",
+        "Director": [
+            "Hayao Miyazaki,                                                                                                                 Kirk Wise"
+        ],
+        "Producer": [
+            "Donald W. Ernst,                                                                                                                 Toshio Suzuki"
+        ],
+        "Runtime": 125,
+        "movieName": "spirited_away"
+    },
+    {
+        "Bio": "A teenage boy and girl embark on a quest to meet each other for the first time after they magically swap bodies.",
+        "Movie_name": "Your Name",
+        "Rating": "PG (Smoking|Brief Language|Suggestive Content|Thematic Elements)",
+        "Genre": [
+            "Fantasy",
+            " Romance"
+        ],
+        "Language": "Japanese",
+        "Director": [
+            "Makoto Shinkai"
+        ],
+        "Producer": [
+            "Noritaka Kawaguchi,                                                                                                                 Genki Kawamura"
+        ],
+        "Runtime": 106,
+        "movieName": "your_name_2017"
+    },
+    {
+        "Bio": "An Irish youth (David Rawle) discovers that his mute sister is a selkie who must find her voice and free supernatural creatures from the spell of a Celtic goddess (Fionnula Flanagan).",
+        "Movie_name": "Song of the Sea",
+        "Rating": "PG (Pipe Smoking Images|Language|Some Mild Peril)",
+        "Genre": [
+            "Adventure",
+            " Animation"
+        ],
+        "Language": "English",
+        "Director": [
+            "Tomm Moore"
+        ],
+        "Producer": [
+            "Tomm Moore,                                                                                                                 Ross Murray,                                                                                                                 Paul Young,                                                                                                                 St\u00e9phan Roelants,                                                                                                                 Serge Ume,                                                                                                                 Isabelle Truc,                                                                                                                 Cl\u00e9ment Calvet,                                                                                                                 Jeremie Fajner,                                                                                                                 Frederik Villumsen,                                                                                                                 Claus Toksvig Kjaer"
+        ],
+        "Runtime": 94,
+        "movieName": "song_of_the_sea_2014"
+    },
+    {
+        "Bio": "In this animated adaptation of Ted Hughes' Cold War fable, a giant alien robot (Vin Diesel) crash-lands near the small town of Rockwell, Maine, in 1957. Exploring the area, a local 9-year-old boy, Hogarth, discovers the robot, and soon forms an unlikely friendship with him. When a paranoid government agent, Kent Mansley, becomes determined to destroy the robot, Hogarth and beatnik Dean McCoppin (Harry Connick Jr.) must do what they can to save the misunderstood machine.",
+        "Movie_name": "The Iron Giant",
+        "Rating": "PG (Mild Language|Fantasy Action)",
+        "Genre": [
+            "Kids & family",
+            " Animation",
+            " Adventure"
+        ],
+        "Language": "English",
+        "Director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "Des McAnuff,                                                                                                                 Allison Abbate"
+        ],
+        "Runtime": 86,
+        "movieName": "iron_giant"
+    }
+]
